@@ -17,7 +17,7 @@ const styles = {
   }
 };
 
-function navBar({ currentPage, handlePageChange }) {
+function NavBar({ currentPage, handlePageChange }) {
   return (
     <nav style={styles.navbar}>
       <header className="nav justify-content-center">
@@ -71,4 +71,4 @@ function navBar({ currentPage, handlePageChange }) {
   );
 }
 
-export default navBar;
+export default NavBar;
