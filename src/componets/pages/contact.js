@@ -45,7 +45,7 @@ function Form() {
     e.preventDefault();
 
     if (!checkEmail(email)) {
-      alert("Email is Invalid");
+      alert("Invalid");
       return;
     }
 
