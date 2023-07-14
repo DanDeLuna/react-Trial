@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import NavBar from './Navbar';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
-import Resume from './pages/Resume';
+import About from './pages/';
+import Portfolio from './pages/';
+import Contact from './pages/';
+import Resume from './pages/';
 import footer from './footer';
 import '../style/style.css';
 
