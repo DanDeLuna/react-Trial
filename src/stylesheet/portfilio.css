@@ -1,0 +1,14 @@
+.card {
+    margin: 0.6rem;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    filter: opacity(88%);
+}
+
+img:hover {
+    cursor: pointer;
+    filter: opacity(100%);
+}

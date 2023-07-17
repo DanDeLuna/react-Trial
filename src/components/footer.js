@@ -1,6 +1,6 @@
 import React from "react";
-import Github from "../img/github.png";
-import LinkedIn from "../img/linkedin.png";
+import Github from "../asset/github-logo.jpg";
+import LinkedIn from "../asset/LinkedIn_logo_initials.jpg";
 
 
 
@@ -17,7 +17,7 @@ const styles = {
 
 
 
-function footer() {
+function Footer() {
   return (
     <footer className="text-center">
       <div className="container p-4">
@@ -35,4 +35,4 @@ function footer() {
   );
 }
 
-export default footer;
+export default Footer;

@@ -1,5 +1,5 @@
 import React from "react";
-import ResumedanDeluna from "../../asset/";
+//import ResumedanDeluna from "../../asset/";
 
 const styles = {
   h2: {
@@ -22,9 +22,7 @@ export default function Resume() {
     <div style={styles.space}>
       <h2 style={styles.h2}>Resume</h2>
       <p style={styles.h2}>
-        <a style={styles.link} href={ResumedanDeluna} download>
-          Download Full Resume
-        </a>
+
       </p>
       <h3 style={styles.h3}> Full-stack Skills</h3>
       <p>
@@ -57,26 +55,29 @@ export default function Resume() {
         (10/2022 – Present)
         <ul>
           <li>
-          
+          Test devices , apps, and websites for our company
           </li>
           <li>
-        
+            Writing test cases and test planning 
+          </li>
+          <li>
+          Writing steps on how to reproduce issues and track defects
           </li>
         </ul>
       </p>
       <p>
-        <h4>Business Operations Anaylst II </h4>
+        <h4>Business Operations Analyst II </h4>
         <h5>Dish Wireless, CO </h5>
         (6/2014- 4/2016)
         <ul>
           <li>
-           
+           Point of contact for billing platform  
           </li>
           <li>
-           
+           Audit payments for all lines of business
           </li>
           <li>
-            
+          Writing process docs for Audits
           </li>
         </ul>
       </p>

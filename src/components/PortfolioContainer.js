@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import NavBar from './Navbar';
-import About from './pages/';
-import Portfolio from './pages/';
-import Contact from './pages/';
-import Resume from './pages/';
-import footer from './footer';
-import '../style/style.css';
+import About from './pages/about';
+import Portfolio from './pages/projects';
+import Contact from './pages/contact';
+import Resume from './pages/resume';
+import Footer from './footer';
+import '../stylesheet/portfilio.css';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -26,8 +26,8 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className='body'>
-      <Header currentPage={currentPage} handlePageChange={handlePageChange} />
+    <div className='body text-bg-secondary p-3'>
+      <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
     </div>

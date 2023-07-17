@@ -1,13 +1,13 @@
 import React from "react";
-import '../style/navbar.css';
+import '../stylesheet/navbarr.css';
 
 const styles = {
   navbar: {
-    backgroundColor: "#58C2C7",
+    backgroundColor: "#dc143c",
   },
   navbarr: {
-    color: "#0000FF",
-    fontSize: "19px",
+    color: "#00000",
+    fontSize: "20px",
   },
   h1: {
     fontSize: "50px",
