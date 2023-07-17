@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-trial/static/css/main.ddee1475.css",
-    "main.js": "/react-trial/static/js/main.c0f3e540.js",
-    "static/media/dandeluna.jpg": "/react-trial/static/media/dandeluna.82ac4465ed700a8f2e4a.jpg",
-    "static/media/forecastAPP.png": "/react-trial/static/media/forecastAPP.2cebbe2584f973c89de1.png",
-    "static/media/Notetakerapp.png": "/react-trial/static/media/Notetakerapp.deca4e1a7dcff93f8dfb.png",
-    "static/media/PaawordGen.png": "/react-trial/static/media/PaawordGen.9c7ed753f4bec7aee85b.png",
-    "static/media/github-logo.jpg": "/react-trial/static/media/github-logo.3fc5ead9ff318bda611c.jpg",
-    "index.html": "/react-trial/index.html",
-    "main.ddee1475.css.map": "/react-trial/static/css/main.ddee1475.css.map",
-    "main.c0f3e540.js.map": "/react-trial/static/js/main.c0f3e540.js.map"
+    "main.css": "/react-Trial/static/css/main.ddee1475.css",
+    "main.js": "/react-Trial/static/js/main.f369fce3.js",
+    "static/media/dandeluna.jpg": "/react-Trial/static/media/dandeluna.82ac4465ed700a8f2e4a.jpg",
+    "static/media/forecastAPP.png": "/react-Trial/static/media/forecastAPP.2cebbe2584f973c89de1.png",
+    "static/media/Notetakerapp.png": "/react-Trial/static/media/Notetakerapp.deca4e1a7dcff93f8dfb.png",
+    "static/media/PaawordGen.png": "/react-Trial/static/media/PaawordGen.9c7ed753f4bec7aee85b.png",
+    "static/media/github-logo.jpg": "/react-Trial/static/media/github-logo.3fc5ead9ff318bda611c.jpg",
+    "index.html": "/react-Trial/index.html",
+    "main.ddee1475.css.map": "/react-Trial/static/css/main.ddee1475.css.map",
+    "main.f369fce3.js.map": "/react-Trial/static/js/main.f369fce3.js.map"
   },
   "entrypoints": [
     "static/css/main.ddee1475.css",
-    "static/js/main.c0f3e540.js"
+    "static/js/main.f369fce3.js"
   ]
 }
