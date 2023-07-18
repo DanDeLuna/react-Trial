@@ -31,22 +31,22 @@ This portfolio  shows information about me, some of my web apps,contact info, an
 
 Webpage: https://dandeluna.github.io/react-Trial/
 
-Screenshots:
+Screenshots of App:
 
-Homepage / About Me
-![Screenshot]()
+Home & About Me
+![Screenshot](./src/asset/homepage.png)
 
 
 Portfolio
-![Screenshot]()
+![Screenshot](./src/asset/portfi.png)
 
 
 Contact Me
-![Screenshot]()
+![Screenshot](./src/asset/contact.png)
 
 
 Resume
-![Screenshot]()
+![Screenshot](./src/asset/resume.png)
 
 ## License:
 MIT
